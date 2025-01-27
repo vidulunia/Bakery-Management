@@ -13,7 +13,7 @@ A simple backend system to manage bakery items, including functionality to add, 
 
 # Prerequisites  
 - Python installed on your system.
-- A database (e.g., MySQL, MongoDB).  
+- A database (e.g., MySQL).  
 
 # Steps  
 
